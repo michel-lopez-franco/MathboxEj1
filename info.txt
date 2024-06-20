@@ -1,0 +1,11 @@
+
+
+- npm init -y
+
+- npm install mathbox three -E
+
+- npm install -D webpack-dev-server
+
+- npm install html-webpack-plugin -D
+
+- npm install style-loader css-loader -D
